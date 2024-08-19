@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D16FC4-1396-49BA-8C64-1955A97F2847}|\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6.csproj|C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9D16FC4-1396-49BA-8C64-1955A97F2847}|\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6.csproj|solutionrelative:\u6E29\u6E7F\u5EA6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D16FC4-1396-49BA-8C64-1955A97F2847}|\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6.csproj|c:\\users\\\u6DE6\\desktop\\git\u9879\u76EE\\helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9D16FC4-1396-49BA-8C64-1955A97F2847}|\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6.csproj|solutionrelative:\u6E29\u6E7F\u5EA6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\Form2.cs",
+              "RelativeDocumentMoniker": "\u6E29\u6E7F\u5EA6\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u6E29\u6E7F\u5EA6\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:55:00.517Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\Form1.cs",
+              "RelativeDocumentMoniker": "\u6E29\u6E7F\u5EA6\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u6DE6\\Desktop\\git\u9879\u76EE\\Helloworld\\\u6E29\u6E7F\u5EA6\\\u6E29\u6E7F\u5EA6\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "\u6E29\u6E7F\u5EA6\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:53:22.473Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
